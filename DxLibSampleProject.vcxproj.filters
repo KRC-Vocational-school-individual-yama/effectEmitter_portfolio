@@ -7,6 +7,7 @@
     <ClCompile Include="soce\object.cpp">
       <Filter>temple</Filter>
     </ClCompile>
+    <ClCompile Include="soce\emitterexprosion.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="soce\config.h">
@@ -21,6 +22,7 @@
     <ClInclude Include="soce\shapes.h">
       <Filter>shapes</Filter>
     </ClInclude>
+    <ClInclude Include="soce\emitterexprosion.h" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="temple">
