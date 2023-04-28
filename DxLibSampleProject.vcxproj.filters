@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="soce\winmain.cpp">
+      <Filter>temple</Filter>
+    </ClCompile>
+    <ClCompile Include="soce\object.cpp">
+      <Filter>temple</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="soce\config.h">
+      <Filter>temple</Filter>
+    </ClInclude>
+    <ClInclude Include="soce\object.h">
+      <Filter>temple</Filter>
+    </ClInclude>
+    <ClInclude Include="soce\shapemesh.h">
+      <Filter>shapes</Filter>
+    </ClInclude>
+    <ClInclude Include="soce\shapes.h">
+      <Filter>shapes</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="temple">
+      <UniqueIdentifier>{364b45a2-0172-4959-8d58-77315560f736}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shapes">
+      <UniqueIdentifier>{047f291e-7792-477e-9b32-cb4b92d1cf77}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
